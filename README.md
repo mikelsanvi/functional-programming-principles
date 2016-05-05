@@ -1,3 +1,3 @@
 # functional-programming-principles
 
-Soluctions for coursera course
+Solutions for coursera's course
